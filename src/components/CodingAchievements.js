@@ -13,10 +13,10 @@ function CodingAchievements() {
       ([entry]) => {
         if (entry.isIntersecting) {
           setIsVisible(true);
-          setTimeout(() => setAnimateCards(true), 800);
+          setTimeout(() => setAnimateCards(true), 300);
         }
       },
-      { threshold: 0.3 }
+      { threshold: 0.1 }
     );
 
     const section = document.getElementById('coding-achievements');

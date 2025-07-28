@@ -106,7 +106,7 @@
   content: '';
   position: absolute;
   bottom: 0;
-  left: 43%;
+  left: 50%;
   width: 0;
   height: 2px;
   background: var(--primary-gradient);
@@ -208,6 +208,18 @@
     font-size: 1.1rem;
     border-radius: 8px;
     transition: all 0.3s ease;
+  }
+
+  .navbar-links li a::after {
+    content: '';
+    position: absolute;
+    bottom: 0;
+    left: 43%;
+    width: 0;
+    height: 2px;
+    background: var(--primary-gradient);
+    transition: var(--transition-smooth);
+    transform: translateX(-50%);
   }
 
   .navbar-links li a:hover {

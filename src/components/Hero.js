@@ -1,6 +1,6 @@
 import React from "react"
 import Typewriter from "typewriter-effect"
-import heroImg from "../assets/hero.svg"
+import heroImg from "../assets/dhruv.png"
 import resume from "../assets/resume.pdf"
 import "./Hero.css"
 
