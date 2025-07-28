@@ -27,7 +27,7 @@ const projects = [
     "subtitle": "Coding Stats Tracker",
     "date": "March 2024 – August 2024",
     "description": "A real-time leaderboard auto-updated with GitHub Actions and data scraped from coding platforms.",
-    "codeLink": "https://github.com/DhruvBhalodia/CPLeaderboard"
+    "codeLink": "https://github.com/DhruvBhalodia/Leader-Board"
   },
   {
     "title": "Personalized Healthcare using AI",
