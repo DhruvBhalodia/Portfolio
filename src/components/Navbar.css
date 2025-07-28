@@ -106,7 +106,7 @@
   content: '';
   position: absolute;
   bottom: 0;
-  left: 50%;
+  left: 43%;
   width: 0;
   height: 2px;
   background: var(--primary-gradient);
