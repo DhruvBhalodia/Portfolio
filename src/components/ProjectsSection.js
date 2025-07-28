@@ -23,7 +23,7 @@ const projects = [
     "codeLink": "https://github.com/DhruvBhalodia/Personal-DigiLocker"
   },
   {
-    "title": "CP Leaderboard",
+    "title": "Leader-Board",
     "subtitle": "Coding Stats Tracker",
     "date": "March 2024 – August 2024",
     "description": "A real-time leaderboard auto-updated with GitHub Actions and data scraped from coding platforms.",
