@@ -13,7 +13,7 @@ const jobs = [
     date: "May 2025 - June 2025",
     description: "Frontend Development, Backend Development, User Experience, Team Leading",
     type: 'work',
-    link: "https://spheretechlabs.com"
+    link: "https://drive.google.com/file/d/1ehXMK84VmWdX9JnDHGh86nWEdw-7eOyJ/view"
   },
   {
     title: "Data Scientist Intern",
@@ -21,7 +21,7 @@ const jobs = [
     date: "January 2025 - March 2025",
     description: "Data Analysis, Data Visualization, Data Cleaning, Data Preprocessing",
     type: 'work',
-    link: "#"  // Add your actual link here
+    link: "https://drive.google.com/file/d/1hVLWaDtFSmjltlWgTgEe67ppELmd9_PQ/view"  // Add your actual link here
   }
 ]
 
