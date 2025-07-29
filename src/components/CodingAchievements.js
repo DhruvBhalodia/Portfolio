@@ -49,7 +49,7 @@ function CodingAchievements() {
       id: 3,
       icon: faCode,
       title: "LeetCode Rating",
-      subtitle: "Rating: 1920",
+      subtitle: "Rating: 1949",
       link: "https://leetcode.com/Dhruv_Bhalodia",
       description: "Solved 500+ problems across various difficulty levels with focus on algorithms and data structures.",
       color: "secondary",
